@@ -28,7 +28,7 @@ A robust and scalable Spring Boot application for managing an e-commerce platfor
 ## **Technologies Used**
 
 - **Programming Language**: Java 17
-- **Framework**: Spring Boot 3.x
+- **Framework**: Spring Boot 3
 - **Database**: MySQL
 - **ORM**: Hibernate/JPA
 - **Real-time Communication**: WebSocket (STOMP)
@@ -125,7 +125,7 @@ A robust and scalable Spring Boot application for managing an e-commerce platfor
 
 ## **Sample API Response for Customer Login**
 
-#### **POST**   `localhost:8009/login/customer`
+#### **POST**   `localhost:8080/login/customer`
 
 #### Request Body
 ```json
